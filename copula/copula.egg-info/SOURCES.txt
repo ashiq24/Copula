@@ -1,0 +1,7 @@
+README.md
+setup.py
+copula/pyCopula.py
+copula.egg-info/PKG-INFO
+copula.egg-info/SOURCES.txt
+copula.egg-info/dependency_links.txt
+copula.egg-info/top_level.txt
