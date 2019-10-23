@@ -2,7 +2,7 @@
 # Copula
 A python library for sampling and generating new Data points by multivariate Gaussian copulas.
 ## Overview
-A python libray to build multivariate gaussian copula for given data points and sample arbitary number of new data points from input data distribution. In short *given some input data points, it can generate more  such data points which follow the input data distribution*
+A python library to build multivariate gaussian copula for given data points and sample arbitary number of new data points from input data distribution. In short *given some input data points, it can generate more  such data points which follow the input data distribution*
 
 ## Installation
 Install using pip
